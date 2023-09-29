@@ -12,7 +12,7 @@ The dataset includes 11 attribues and 1 output attribue (class)
 The 244 instances have been classified into fire(138 classes) and not fire (106 classes) classes.
 
 
-Attribute Information:
+## Attribute Information:
 
 1. Date : (DD/MM/YYYY) Day, month ('june' to 'september'), year (2012)
 Weather data observations
